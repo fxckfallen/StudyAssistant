@@ -2,6 +2,17 @@
 
 **StudyAssistant** is an interactive digital journal designed to help students effectively track their academic performance, manage grades, and organize homework assignments. The application offers a user-friendly interface with visual feedback, allowing students to stay on top of their educational tasks and monitor their progress.
 
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
 ## Features
 
 - **Grade Tracking:** Easily record and view grades for various subjects.
