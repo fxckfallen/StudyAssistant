@@ -16,7 +16,7 @@ To set up **StudyAssistant** locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/StudyAssistant.git
+    git clone https://github.com/fxckfallen/StudyAssistant.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -56,8 +56,10 @@ For major changes, please open an issue to discuss before implementing.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## Contact
+For any questions or feedback, please reach out to:
 
-For any questions or feedback, please reach out to your-email@example.com.
+- [Email](mailto:fxckfallen@icloud.com)
+- [Telegram](https://t.me/yourtelegramusername)
 
 ## Acknowledgements
 
